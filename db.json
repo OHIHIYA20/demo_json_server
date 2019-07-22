@@ -1,8 +1,6 @@
-{
-  "data": [
+[
     {
-      "timestamp": "2019-12-31 00:00:00.000000 +08:00",
-      "value": "Contoh Data"
+        "timestamp": "2019-12-31 00:00:00.000000 +08:00",
+        "value": "hari ini pergi kerja"
     }
-  ]
-}
+]
