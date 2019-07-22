@@ -2,5 +2,9 @@
     {
         "timestamp": "2019-12-31 00:00:00.000000 +08:00",
         "value": "hari ini pergi kerja"
+    },
+    {
+        "timestamp": "2019-01-12 00:00:00.000000 +08:00",
+        "value": "hari ini pergi kerja"
     }
 ]
